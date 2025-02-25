@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Salavat :v:
 
-I am learning to become a programmer, with a focus on [Java](https://job4j.ru/).
+I am learning to become a programmer, with a focus on [Java].
 -
 <b> Core techs: </b>
 - Java
